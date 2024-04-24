@@ -23,5 +23,12 @@
 Axios is used to make API requests from our server to another through public API
 In Axios when we get the data through API call we do not need to parse it using JSON.parse(), we can directly get the data by using .data 
 
+ScreenShots
+
+![Screenshot 2024-04-24 132727](https://github.com/SarthakJaiswal001/blog-project/assets/96002671/84adfdd9-5293-4b24-843a-8025a32b0087)
+
+
+![Screenshot 2024-04-24 132637](https://github.com/SarthakJaiswal001/blog-project/assets/96002671/1bdf04b4-f3d2-4fab-a31c-8252ad6ff494)
+
 ## If there is something you would like to add then please create an issue. Happy coding😊
 
